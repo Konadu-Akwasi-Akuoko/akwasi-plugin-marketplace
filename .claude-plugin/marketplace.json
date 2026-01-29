@@ -1,0 +1,20 @@
+{
+  "name": "akwasi-automation-hub",
+  "owner": {
+    "name": "Akwasi Konadu Akuoko",
+    "email": "konaduakwasiakuoko@gmail.com"
+  },
+  "metadata": {
+    "description": "A curated collection of Claude Code plugins for AI-powered automation across development, marketing, and productivity workflows",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "video-editor",
+      "source": {
+        "source": "github",
+        "repo": "Konadu-Akwasi-Akuoko/programatic-video-editor"
+      }
+    }
+  ]
+}
