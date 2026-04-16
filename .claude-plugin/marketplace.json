@@ -29,6 +29,19 @@
       },
       "keywords": ["tmux", "orchestration", "autonomous", "director", "multi-session"],
       "category": "automation"
+    },
+    {
+      "name": "motion-canvas",
+      "source": {
+        "source": "github",
+        "repo": "Konadu-Akwasi-Akuoko/motion-canvas-plugin"
+      },
+      "description": "Full video production pipeline with Motion Canvas — animation library, reference docs, and project tooling",
+      "author": {
+        "name": "Akwasi Konadu Akuoko"
+      },
+      "keywords": ["motion-canvas", "animation", "video", "production"],
+      "category": "media"
     }
   ]
 }
